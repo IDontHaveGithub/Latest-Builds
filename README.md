@@ -2,7 +2,8 @@
 A repository containing a couple of builds of the games I made
 
 Peas: 
-Warning: if you start the level, it's loud for the first few seconds.
+Warning: if you start the level, it's loud for the first few seconds. 
+    Also, mouse disappears in the level, but I forgot to add it back in the menu, will be fixed in a later build
 Made: June 2019
 With: just me.
 Any tutorials used: I used a SimonSays tutorial and a maze generator.
@@ -14,7 +15,7 @@ This would make it easier for myself as I'm really bad a leveldesign, something 
 
 The maze works nowadays, you walk into the grey block that spawns in every room and press E to open another random wall. But if you're able to jump on the parkour part, you'll be able to jump out of the maze. The puzzles don't work yet in the actual level, although you can click on them.
 
-If you find the green coloured room, that's the end, you run into the blue cube and will be redirected to the menu I quickly made in 5 minutes.
+If you find the green coloured room, that's the end, you run into the blue cube and will be redirected to the menu I quickly made in 5 minutes. In this menu you also find the two puzzles that spawn in the maze, but can't play there. These puzzles do work in their respective scenes.
 
 It's not even close to done and I still work on it every day.
 
