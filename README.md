@@ -1,16 +1,14 @@
 # Latest-Builds
 A repository containing a couple of builds of the games I made
 
-Peas: 
+#### Peas: 
 
-Warning: if you start the level, it's loud for the first few seconds. 
+##### Warning: 
+    if you start the level, it's loud for the first few seconds. 
     Also, mouse disappears in the level, but I forgot to add it back in the menu, will be fixed in a later build
-
-Made: June 2019
-
-With: just me.
-
-Any tutorials used: I used a SimonSays tutorial and a maze generator.
+##### Made: June 2019
+##### With: just me.
+##### Any tutorials used: I used a SimonSays tutorial and a maze generator.
 
 Peas was a game that I jokingly named, it's original plan was to make a game based around P's, literally the letter P.
 Puns, Puzzles and Parkour, a Pristine Path through the Puzzle Peaks. 
@@ -24,15 +22,12 @@ If you find the green coloured room, that's the end, you run into the blue cube 
 It's not even close to done and I still work on it every day.
 
 
-Sphaze: 
-
-Warning: you will get stuck in the floor if you fall from too high.
-
-Made: December 2017
-
-With: Me, Eric made a Madlibz part that didn't work and was cut  from the build, sorry Eric.
-
-Any tutorials used: None really, I did reuse code I used in the SpaceInvaders, which was from a tutorial made by my teacher.
+#### Sphaze: 
+##### Warning: 
+    you will get stuck in the floor if you fall from too high.
+##### Made: December 2017
+##### With: Me, Eric made a Madlibz part that didn't work and was cut  from the build, sorry Eric.
+##### Any tutorials used: None really, I did reuse code I used in the SpaceInvaders, which was from a tutorial made by my teacher.
 
 Again, Sphaze was the first game I ever made without a real tutorial and the first project ever.
 
@@ -47,31 +42,25 @@ And the MadLibs part of the game doesn't work, as that was just a hurried attemp
 I've recently added a reset button in the build to get out of the ground, as the colliders will sometimes break and the Player will get stuck in the ground.
 
 
-SpaceInvaders:
-
-Made: November 2017
-
-With: Me
-
-tutorial used: the teachers one, it was just a school exercise.
+#### SpaceInvaders:
+##### Made: November 2017
+##### With: Me
+##### tutorial used: the teachers one, it was just a school exercise.
 
 This wasn't even a project as much as just an exercise for school, it was made in 2 days, but it works, so it's good to add.
 Everyone know the premise of SpaceInvaders, I presume.
 
 
-Minigames_3D:
-
-Made: June 2018
-
-With: Just me
-
-tutorial used: there was some info about the things we needed to use, but not really a tutorial
+#### Minigames_3D:
+##### Made: June 2018
+##### With: Just me
+##### tutorial used: there was some info about the things we needed to use, but not really a tutorial
 
 This was again just an exercise for school, for the entire semester we would work on the basic of the physics in the 3D world of unity.
 We had gotten information of how to easily jump, how the wheeldcolliders works and the physics material should help with things, but after that we were left to our own devices. I jokingly put nonsensical sounds under a couple of the levels, which you can only reach through the levelselect, as it's just a show of how the physics work and it's fun to see a car roll over or fall from the world itself.
 In order of levels:
     
-    - Marble box: a not really a game, but only physics, you shoot off the red ball with the Spacebar and reset it with Escape, if you press Spacebar a couple of times in quick succession the ball shoots off into space, the blue balls will you scatter around and bounce weirdly of the walls.
-    - Chad: Chad is the name of the little toycar you can control, it just drives real bad, but has fun anyway. If it turns over the lights will flicker, but it will reset in a few seconds to happily drive off again.
-    - Boing: you're a marble again, or actually more of a bouncyball. Steering can only be done if you're touching the floor with A and D. You jump with Spacebar. after 30 second or so platforms will start moving, after another 30 second more platforms will go and so on.
-    - Sumo: The sumo part is actually kinda fun to play, it's controls are wonky and stopping is hard, but that makes it kinda charming. you control the game with WASD and the Arrow keys for the other player. it speeds up fast and if they touch each other they will get launched with a bang.The point system does work and even gets reset if you get into the game again, from the menu.
+   - Marble box: a not really a game, but only physics, you shoot off the red ball with the Spacebar and reset it with Escape, if you press Spacebar a couple of times in quick succession the ball shoots off into space, the blue balls will you scatter around and bounce weirdly of the walls.
+   - Chad: Chad is the name of the little toycar you can control, it just drives real bad, but has fun anyway. If it turns over the lights will flicker, but it will reset in a few seconds to happily drive off again.
+   - Boing: you're a marble again, or actually more of a bouncyball. Steering can only be done if you're touching the floor with A and D. You jump with Spacebar. after 30 second or so platforms will start moving, after another 30 second more platforms will go and so on.
+   - Sumo: The sumo part is actually kinda fun to play, it's controls are wonky and stopping is hard, but that makes it kinda charming. you control the game with WASD and the Arrow keys for the other player. it speeds up fast and if they touch each other they will get launched with a bang.The point system does work and even gets reset if you get into the game again, from the menu.
