@@ -1,6 +1,17 @@
 # Latest-Builds
 A repository containing a couple of builds of the games I made
 
+#### Reigns
+
+##### Note:
+    this is only a functionality I worked on, not an entire game, obviously.
+    also: it's an apk file, so just for android
+##### Made: July 2019
+##### With: Moi, but with a lot of tips and help from Sietse from 8D Games.
+
+Reigns is what it's called at the moment since it was originally based from it, the texts are just samples I made without thinking, don't take it too seriously. It's only the functionality of the swiping and the changing of the texts.
+
+
 #### Peas: 
 
 ##### Warning: 
